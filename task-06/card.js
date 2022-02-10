@@ -1,3 +1,5 @@
+alert("Я оцениваю свою работу на 110 баллов")
+
 const body = document.querySelector('body')
 body.style.fontFamily = "Outfit, sans-serif";
 body.style.fontSize = '18px';
@@ -165,3 +167,4 @@ authorName.style.fontWeight = '400'
 authorName.style.color = 'white';
 authorName.style.padding = '0 10px'
     creation.appendChild(authorName);
+
